@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    margin: 10px;
+    background-size: url('https://cdn.shopify.com/s/files/1/0439/3104/1951/articles/tweet-this-21-facts-you-never-knew-about-looney-tune-s-tweety-bird-tvstoreonline_600x600_crop_center.jpg?v=1661283786');
+   /* background-color: rgb(72, 67, 73); */
+}
+
+input{
+    height: 50px;
+    width: 500px;
+    border-radius: 1px solid;
+    
+}
+
+button{
+    height: 50px;
+    width: 500px;
+    background-color: rgb(53, 168, 161);
+    color:rgb(247, 240, 240);
+
+}
+
+.Goal{
+    /* display: flex; */
+    /* flex-direction: column;
+    justify-content: space-between;
+    align-items: center; */
+    margin: 20px;
+
+}
+
+.Goal h1{
+    color: rgb(53, 168, 161);
+}
+
+.dark-mode{
+    background-color: rgb(57, 62, 66);
+}
